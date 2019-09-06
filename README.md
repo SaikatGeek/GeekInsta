@@ -1,7 +1,7 @@
 # GeekInsta
 A photo sharing social site. 
 
-This is a Instagram clone project that I have developed by my beginner knowledge.
+This is an Instagram clone project that I have developed by my beginner knowledge.
 
 #Inside
 
